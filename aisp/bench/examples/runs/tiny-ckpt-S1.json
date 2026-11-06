@@ -1,0 +1,25 @@
+{
+  "manifest": "memory://runs/sync-1c4cd7aa26e04910a545a652e64dacd3/manifest.json",
+  "metrics": [
+    {
+      "check_point_duration_sli": 0.0941405612975359
+    },
+    {
+      "training_stall_sli": 0.0941405612975359
+    },
+    {
+      "restore_duration_sli": 0.24353851936757565
+    },
+    {
+      "write_throughput_sli": 712858124.861813
+    },
+    {
+      "metadata_commit_sli": 4.123110324144363
+    },
+    {
+      "write_latency_p99_sli": 2.4546440690755844
+    }
+  ],
+  "slo": [],
+  "report": "memory://runs/sync-1c4cd7aa26e04910a545a652e64dacd3/report.html"
+}
